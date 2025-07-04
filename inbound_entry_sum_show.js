@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.3
 // @description  Calculate total cost in Smaregi Inventory and display it in a new row at the end of the table.
-// @author       You
+// @author       akmn-enokawa
 // @match        https://inventory1.smaregi.jp/control/ic_storages/add
 // @grant        none
 // ==/UserScript==
