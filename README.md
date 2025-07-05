@@ -7,6 +7,7 @@
 
 > **▼ 入荷データ参照画面 合計金額計算スクリプト**（スマレジ用）  
 > [inbound_data_total_calc.js](inbound_data_total_calc.js)
+<div align="center" style="margin:50px;"><img src="img/2025-07-04_18h48_28.png" width="500"></div> 
 <br>
 
 > **▼ スマレジ - 商品管理ページにDatepicker導入**（スマレジ用）  
